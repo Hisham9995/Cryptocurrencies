@@ -46,8 +46,6 @@ Most of the cryptocurrencies are part of class #0 and #3
 
 
 
-![Screenshot (608)](https://user-images.githubusercontent.com/82621077/131266097-84390fad-d894-4372-98f7-e99df93d0a92.png)
-
 
 # Clustering Cryptocurrencies using K-Means - Elbow Curve
 
