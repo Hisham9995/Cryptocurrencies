@@ -1,2 +1,2 @@
 # Cryptocurrencies
-Unsupervised machine learning, PCA algorithm, and K-Means clustering to analyze and classify a database of cryptocurrencies.
+I did use Unsupervised learning , processed  data, data clustering ,I did reduce dimensions & reduce the principal components using PCA
