@@ -22,7 +22,7 @@ What I have done here is  processed the database , I did use pca (Principal Comp
 
 ![Screenshot (609)](https://user-images.githubusercontent.com/82621077/131266182-b02dbb01-b25f-48ea-ae27-52c6c2202054.png)
 
-The PCA algorithm is used to reduce he crytocurrencies dimensions to three principal components. in this 3-D scatter plot 
+The PCA algorithm is used to reduce the crytocurrencies dimensions to three principal components. in this 3-D scatter plot 
 
 
 
