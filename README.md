@@ -53,7 +53,7 @@ Most of the cryptocurrencies are part of classes #0 and #3
 
 The Unsupervised machine learning was used to identify clusters of the cryptocurrencies the K-Means method iterating from 1 to 10
 
-The best K value is 4 so we would conclude on an output of 4 clusters
+The best K value is 4 so we would conclude on  4 clusters in our output
 
 
 # Summary
