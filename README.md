@@ -30,7 +30,7 @@ The PCA algorithm is used to reduce the cryptocurrencies dimensions to three pri
 ![Screenshot (607)](https://user-images.githubusercontent.com/82621077/131266310-e152d8f8-f8b0-4138-a80f-505d3c64ee37.png)
 
 
-Plotting the scatter plot from two cryptocurrency features Using the PCA algorithm is the right method for better visualizations
+Plotting the scatter plot from two cryptocurrency features Using the PCA algorithm is the best method for better visualizations
 
 
 # Tradable Cryptocurrencies Table
